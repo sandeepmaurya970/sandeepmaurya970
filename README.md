@@ -1,11 +1,18 @@
-👋 Hi, I’m @sandeepmaurya970, an ISTQB/CTFL certified tester.
-👀 I’m passionate about testing and collaboration with dev teams.
-🌱 Currently diving into SDET.
-💞️ I’m eager to collaborate on projects, especially in bank projects.
-📫 Let's connect on LinkedIn: [Sandeep Maurya](https://www.linkedin.com/in/sandeepmaurya970/)
+👋 Hi, I’m Sandeep Maurya
+💡 About Me
+🌟 Certified Tester: ISTQB/CTFL certified professional with 5 years of experience in manual testing.
+👀 Passionate Tester: Enthusiastic about testing and closely collaborating with development teams.
+🌱 Currently Exploring: Diving deep into SDET (Software Development Engineer in Test) skills and automation frameworks.
+💞️ Collaboration: Open to collaborating on innovative projects, especially in the banking domain.
+📚 Key Skills: Manual Testing, SDLC/STLC, Agile, Selenium, C#, and Test Automation.
+📫 Let's Connect: LinkedIn Profile
+⚡ GitHub Stats
 
+📊 Language Breakdown
 
-<!---
-sandeepmaurya970/sandeepmaurya970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Visitor Count
+
+📈 Goals for 2024:
+Master advanced test automation tools.
+Contribute to open-source SDET and testing projects.
+Collaborate with banking domain experts.
