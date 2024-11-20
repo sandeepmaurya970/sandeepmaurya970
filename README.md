@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Sandeep Maurya**
 
 ## 💡 About Me
-- 🌟 **Certified Tester**: ISTQB/CTFL certified professional with 5 years of experience in manual testing.
+- 🌟 **Certified Tester**: ISTQB/CTFL certified professional with over 3 years of experience in manual testing.
 - 👀 **Passionate Tester**: Enthusiastic about testing and closely collaborating with development teams.
 - 🌱 **Currently Exploring**: Diving deep into SDET (Software Development Engineer in Test) skills and automation frameworks.
 - 💞️ **Collaboration**: Open to collaborating on innovative projects, especially in the banking domain.
