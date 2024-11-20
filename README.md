@@ -110,7 +110,7 @@
 - JIRA, Bugzilla, ZOHO, Selenium, Postman, JMeter, Testsigma.  
 
 ### Programming:
-- Java, Python, C (Basic).
+- Java, Python, C#.
 
 ### Database:
 - Proficient in SQL, joins, sub-queries, DDL, DML, TCL commands.
